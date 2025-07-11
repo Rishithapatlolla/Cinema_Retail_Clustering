@@ -66,10 +66,10 @@ Applied clustering to group similar pricing patterns.
   ![KMeans Plot](images/kmeans_plot.png)
 
 - **Agglomerative Clustering:**  
-  ![Agglomerative Plot](images/agglomerative_plot_2.png)
+  ![Agglomerative Plot_1](images/agglomerative_plot_2.png)
 
   - **Agglomerative Clustering:**  
-  ![Agglomerative Plot](images/agglomerative_plot_2.png)
+  ![Agglomerative Plot_2](images/agglomerative_plot_2.png)
 
 - **Gaussian Mixture Model (GMM):**  
   ![GMM Plot](images/gmm_plot.png)
