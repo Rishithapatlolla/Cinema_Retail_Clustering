@@ -22,54 +22,57 @@ This project focuses on clustering cinema customers based on their behavioral pa
 
 ## 🖼️ Visualizations
 
-### 🔹 Cluster Plots (19 Images)
+### 🔹 Plots (19 Images)
 
 <details>
-<summary>Click to expand cluster visualizations</summary>
+<summary>Click to expand  visualizations</summary>
 
-![Cluster Plot 1](images/cluster_plot_1.png)  
-![Cluster Plot 2](images/cluster_plot_2.png)  
-![Cluster Plot 3](images/cluster_plot_3.png)  
-![Cluster Plot 4](images/cluster_plot_4.png)  
-![Cluster Plot 5](images/cluster_plot_5.png)  
-![Cluster Plot 6](images/cluster_plot_6.png)  
-![Cluster Plot 7](images/cluster_plot_7.png)  
-![Cluster Plot 8](images/cluster_plot_8.png)  
-![Cluster Plot 9](images/cluster_plot_9.png)  
-![Cluster Plot 10](images/cluster_plot_10.png)  
-![Cluster Plot 11](images/cluster_plot_11.png)  
-![Cluster Plot 12](images/cluster_plot_12.png)  
-![Cluster Plot 13](images/cluster_plot_13.png)  
-![Cluster Plot 14](images/cluster_plot_14.png)  
-![Cluster Plot 15](images/cluster_plot_15.png)  
-![Cluster Plot 16](images/cluster_plot_16.png)  
-![Cluster Plot 17](images/cluster_plot_17.png)  
-![Cluster Plot 18](images/cluster_plot_18.png)  
-![Cluster Plot 19](images/cluster_plot_19.png)
+## 📊 Exploratory Data Analysis (EDA)
 
-</details>
+The EDA phase helped uncover trends, seasonality, and missing patterns in the iron ore pricing data.
+
+### 🔹 EDA Visualizations
+
+![EDA Plot 1](images/eda_plot_1.png)
+![EDA Plot 2](images/eda_plot_2.png)
+![EDA Plot 3](images/eda_plot_3.png)
+![EDA Plot 4](images/eda_plot_4.png)
+![EDA Plot 5](images/eda_plot_5.png)
+![EDA Plot 6](images/eda_plot_6.png)
+![EDA Plot 7](images/eda_plot_7.png)
+![EDA Plot 8](images/eda_plot_8.png)
+![EDA Plot 9](images/eda_plot_9.png)
 
 ---
 
-### 🔹 Streamlit App Screens (10 Images Excluding Home Page)
+## 📑 Sweetviz Auto Reports
 
-<details>
-<summary>Click to expand Streamlit UI screenshots</summary>
+Generated automated profiling reports using Sweetviz for quicker feature analysis.
 
-![Streamlit Home](images/streamlit_home.png)  
-![Streamlit UI 1](images/streamlit_app_1.png)  
-![Streamlit UI 2](images/streamlit_app_2.png)  
-![Streamlit UI 3](images/streamlit_app_3.png)  
-![Streamlit UI 4](images/streamlit_app_4.png)  
-![Streamlit UI 5](images/streamlit_app_5.png)  
-![Streamlit UI 6](images/streamlit_app_6.png)  
-![Streamlit UI 7](images/streamlit_app_7.png)  
-![Streamlit UI 8](images/streamlit_app_8.png)  
-![Streamlit UI 9](images/streamlit_app_9.png)
-![Streamlit UI 9](images/streamlit_app_10.png)
+- ![Sweetviz Report 1](images/sweetviz_report_1.png)
+- ![Sweetviz Report 2](images/sweetviz_report_2.png)
+- ![Sweetviz Report 3](images/sweetviz_report_3.png)
+- ![Sweetviz Report 4](images/sweetviz_report_4.png)
+- ![Sweetviz Report 5](images/sweetviz_report_5.png)
+- ![Sweetviz Report 6](images/sweetviz_report_6.png)
 
-</details>
+---
 
+## 📈 Clustering & Segmentation (for feature grouping)
+
+Applied clustering to group similar pricing patterns.
+
+- **K-Means Clustering:**  
+  ![KMeans Plot](images/kmeans_plot.png)
+
+- **Agglomerative Clustering:**  
+  ![Agglomerative Plot](images/agglomerative_plot_2.png)
+
+  - **Agglomerative Clustering:**  
+  ![Agglomerative Plot](images/agglomerative_plot_2.png)
+
+- **Gaussian Mixture Model (GMM):**  
+  ![GMM Plot](images/gmm_plot.png)
 ---
 
 ## 🚀 How to Run This Project
