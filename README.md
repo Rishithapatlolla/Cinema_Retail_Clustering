@@ -65,7 +65,7 @@ This project focuses on clustering cinema customers based on their behavioral pa
 
 #### Home Page
 
-- [Streamlit Home 1](images/streamlit_home)
+- [Streamlit Home](images/streamlit_home)
 
 #### App Pages
 
