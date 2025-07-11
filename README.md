@@ -7,7 +7,7 @@ This project focuses on clustering cinema customers based on their behavioral pa
 ## 🔧 Tools & Technologies Used
 - **Languages:** Python  
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, Streamlit  
-- **Clustering Models:** K-Means, Gaussian Mixture Model (GMM), Hierarchical Clustering  
+- **Clustering Models:** K-Means, Hierarchical Clustering,Agglomerative Clustering , Gaussian Mixture Model (GMM)
 - **Tools:** Spyder
 
 ---
