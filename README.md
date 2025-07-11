@@ -14,7 +14,7 @@ This project focuses on clustering cinema customers based on their behavioral pa
 
 ## 📊 Project Highlights
 - ✅ Clustered **10,000+ cinema customer records**
-- ✅ Implemented **K-Means**, **GMM**, and **Hierarchical Clustering**
+- ✅ Implemented **K-Means**,  **Hierarchical Clustering** , **Agglomerative Clustering**,and **GMM**
 - ✅ Built an **interactive Streamlit dashboard** for cluster insights
 - ✅ Improved targeted marketing and customer segmentation strategies
 
